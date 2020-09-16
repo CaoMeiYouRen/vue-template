@@ -28,7 +28,7 @@
     "@vue/eslint-config-typescript": "^5.0.2",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "eslint": "^7.4.0",
-    "eslint-config-cmyr": "^0.3.3",
+    "eslint-config-cmyr": "^0.4.2",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-vue": "^6.2.2",
     "sass": "^1.26.10",
