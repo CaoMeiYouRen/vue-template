@@ -9,10 +9,7 @@ module.exports = {
         mocha: true,
     },
     extends: [
-        'plugin:vue/essential',
-        '@vue/typescript',
-        'eslint:recommended',
-        'cmyr',
+        'cmyr/vue'
     ],
     plugins: [
         'vue',
@@ -24,23 +21,11 @@ module.exports = {
         ecmaFeatures: {
             modules: true,
         },
+        project: './tsconfig.json',
+        tsconfigRootDir: __dirname,
     },
     parser: 'vue-eslint-parser',
     rules: {
-        'vue/array-bracket-spacing': [2],
-        'vue/arrow-spacing': [2],
-        'vue/block-spacing': [2],
-        'vue/brace-style': [2],
-        'vue/camelcase': [2],
-        'vue/comma-dangle': [2],
-        'vue/component-name-in-template-casing': [2],
-        'vue/eqeqeq': [2],
-        'vue/key-spacing': [2],
-        'vue/match-component-file-name': [2],
-        'vue/object-curly-spacing': [2],
-        'vue/html-indent': [2, 4], // vue中缩进为4
-        'vue/html-quotes': [[2], 'double'], // vue中用双引号
-        'vue/require-default-prop': [0],
         'vue/html-self-closing': [IS_PROD ? 2 : 0],
         'no-empty': IS_PROD ? 2 : 0, // 禁止有空代码块
         'prefer-const': IS_PROD ? 2 : 0, // 建议使用const
