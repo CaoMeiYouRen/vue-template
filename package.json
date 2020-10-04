@@ -30,7 +30,7 @@
     "babel-plugin-transform-remove-console": "^6.9.4",
     "cross-env": "^7.0.2",
     "eslint": "^7.4.0",
-    "eslint-config-cmyr": "^0.6.2",
+    "eslint-config-cmyr": "^0.8.2",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-vue": "^7.0.0",
     "sass": "^1.26.10",
