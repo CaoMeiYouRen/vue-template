@@ -7,6 +7,7 @@ import './plugins/composition-api'
 Vue.config.productionTip = false
 
 new Vue({
+    name: 'Root',
     router,
     store,
     render: h => h(App),
