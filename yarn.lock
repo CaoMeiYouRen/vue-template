@@ -1549,14 +1549,14 @@
   resolved "https://registry.npm.taobao.org/@vue/devtools-api/download/@vue/devtools-api-6.0.0-beta.2.tgz#833ad3335f97ae9439e26247d97f9baf7b5a6116"
   integrity sha1-gzrTM1+XrpQ54mJH2X+br3taYRY=
 
-"@vue/eslint-config-airbnb@^5.1.0":
-  version "5.1.0"
-  resolved "https://registry.npm.taobao.org/@vue/eslint-config-airbnb/download/@vue/eslint-config-airbnb-5.1.0.tgz#6a72e166af18ac821120ff36aae8b76b940f28aa"
-  integrity sha1-anLhZq8YrIIRIP82qui3a5QPKKo=
+"@vue/eslint-config-airbnb@^5.3.0":
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/@vue/eslint-config-airbnb/-/eslint-config-airbnb-5.3.0.tgz#896551d600816a06dff13fdd7d04fd5153379817"
+  integrity sha512-m9ldRhbqaODbcc9mQZjPgnTzyNweZblLMTqMfC2kHWY68dYd3kwG/hvENeZWXJnKKo+eGnoptk+7Zq/c1519ZQ==
   dependencies:
     eslint-config-airbnb-base "^14.0.0"
     eslint-import-resolver-node "^0.3.4"
-    eslint-import-resolver-webpack "^0.12.2"
+    eslint-import-resolver-webpack "^0.13.0"
     eslint-plugin-import "^2.21.2"
 
 "@vue/eslint-config-typescript@^7.0.0":
@@ -3890,10 +3890,10 @@ eslint-import-resolver-node@^0.3.4:
     debug "^2.6.9"
     resolve "^1.13.1"
 
-eslint-import-resolver-webpack@^0.12.2:
-  version "0.12.2"
-  resolved "https://registry.npm.taobao.org/eslint-import-resolver-webpack/download/eslint-import-resolver-webpack-0.12.2.tgz#769e86cd0c752a1536c19855ebd90aa14ce384ee"
-  integrity sha1-dp6GzQx1KhU2wZhV69kKoUzjhO4=
+eslint-import-resolver-webpack@^0.13.0:
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/eslint-import-resolver-webpack/-/eslint-import-resolver-webpack-0.13.0.tgz#5cb19cf4b6996c8a2514aeb10f909e2c70488dc3"
+  integrity sha512-hZWGcmjaJZK/WSCYGI/y4+FMGQZT+cwW/1E/P4rDwFj2PbanlQHISViw4ccDJ+2wxAqjgwBfxwy3seABbVKDEw==
   dependencies:
     array-find "^1.0.0"
     debug "^2.6.9"
