@@ -9,7 +9,7 @@ import { defineComponent } from '@vue/composition-api'
 export default defineComponent({
     name: 'Home',
     props: {},
-    setup(props, ctx){
+    setup(props, ctx) {
         return {
         }
     },
