@@ -3887,10 +3887,10 @@ eslint-config-airbnb-base@^14.0.0:
     object.assign "^4.1.2"
     object.entries "^1.1.2"
 
-eslint-config-cmyr@^1.0.10:
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.0.10.tgz#a8088c8cc496fc190623651f8dffaca6ca8ce92a"
-  integrity sha512-z6dyFHxTkPVvYBw/vnZSe2KOOWr2zA3drO/Gz/dxTDaU6/l26tS1950GvVaRmAtIYu2FyZn96yGUtSlKwF/LFQ==
+eslint-config-cmyr@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.1.2.tgz#ae7daf139272a899032fdfb5ac1fec96bf1d35c7"
+  integrity sha512-BFvVMTQ4S8lGOuNs61tkprB/z2WOjUaSdxQA1fzrEIF8Wra12mUEV52ceC4GWeDoS0dtiDvDs0Rm3PkMto09Ow==
 
 eslint-import-resolver-node@^0.3.4:
   version "0.3.4"
@@ -8552,10 +8552,10 @@ sass-loader@^10.1.1:
     schema-utils "^3.0.0"
     semver "^7.3.2"
 
-sass@^1.32.6:
-  version "1.32.6"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.32.6.tgz#e3646c8325cd97ff75a8a15226007f3ccd221393"
-  integrity sha512-1bcDHDcSqeFtMr0JXI3xc/CXX6c4p0wHHivJdru8W7waM7a1WjKMm4m/Z5sY7CbVw4Whi2Chpcw6DFfSWwGLzQ==
+sass@^1.32.7:
+  version "1.32.7"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.32.7.tgz#632a9df2b85dc4b346977fcaf2d5e6f2b7039fd8"
+  integrity sha512-C8Z4bjqGWnsYa11o8hpKAuoyFdRhrSHcYjCr+XAWVPSIQqC8mp2f5Dx4em0dKYehPzg5XSekmCjqJnEZbIls9A==
   dependencies:
     chokidar ">=2.0.0 <4.0.0"
 
