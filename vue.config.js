@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 const pkg = require('./package.json')
 const StyleLintPlugin = require('stylelint-webpack-plugin')
 
@@ -16,8 +17,9 @@ module.exports = {
             return [options]
         })
     },
-    configureWebpack: config => {
+    configureWebpack: (config) => {
         config.plugins.push(
+            // eslint-disable-next-line @typescript-eslint/ban-ts-comment
             // @ts-ignore
             new StyleLintPlugin({
                 files: ['src/**/*.{vue,html,css,scss,sass}'],
@@ -26,5 +28,5 @@ module.exports = {
                 fix: true,
             }),
         )
-    }
+    },
 }

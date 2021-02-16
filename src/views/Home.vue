@@ -1,16 +1,18 @@
 <template>
-    <div>
-        <p>Hello Home.vue</p>
+    <div class="home">
+        <p>{{ message }}</p>
     </div>
 </template>
 
 <script lang="ts">
-import { defineComponent } from '@vue/composition-api'
+import { defineComponent, ref } from '@vue/composition-api'
 export default defineComponent({
     name: 'Home',
     props: {},
     setup(props, ctx) {
+        const message = ref('Hello Home.vue')
         return {
+            message,
         }
     },
 })
