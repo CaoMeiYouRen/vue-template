@@ -16,7 +16,7 @@
     "core-js": "^3.14.0",
     "lodash-es": "^4.17.21",
     "normalize.css": "^8.0.1",
-    "vue": "^2.6.12",
+    "vue": "^2.6.14",
     "vue-composable": "^1.0.0-beta.23",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2"
@@ -50,7 +50,7 @@
     "stylelint-scss": "^3.19.0",
     "stylelint-webpack-plugin": "^2.1.1",
     "typescript": "^4.3.2",
-    "vue-template-compiler": "^2.6.12"
+    "vue-template-compiler": "^2.6.14"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
