@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@vue/composition-api": "^1.2.4",
-    "axios": "^0.22.0",
+    "axios": "^0.23.0",
     "core-js": "^3.18.3",
     "lodash-es": "^4.17.21",
     "normalize.css": "^8.0.1",
