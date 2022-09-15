@@ -35,7 +35,7 @@
     "@vue/eslint-config-typescript": "^11.0.1",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "cross-env": "^7.0.2",
-    "eslint": "^7.32.0",
+    "eslint": "^8.23.1",
     "eslint-config-cmyr": "^1.1.23",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-vue": "^9.4.0",
