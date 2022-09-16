@@ -38,7 +38,7 @@
     "eslint": "^7.32.0",
     "eslint-config-cmyr": "^1.1.23",
     "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-vue": "^9.4.0",
+    "eslint-plugin-vue": "^9.5.0",
     "lint-staged": "^13.0.3",
     "sass": "^1.54.9",
     "sass-loader": "^10.3.1",
