@@ -4759,10 +4759,10 @@ eslint-config-airbnb-base@^14.0.0:
     object.assign "^4.1.2"
     object.entries "^1.1.2"
 
-eslint-config-cmyr@^1.1.24:
-  version "1.1.24"
-  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.1.24.tgz#1eabee691c13e45bf632dcfae49929079f1d80b3"
-  integrity sha512-QgjxOn41zKiv5P7kYVwKxb/HJFiQ2Qa5r490rzzTVPxhav2nzyiu7rAkDq/9ePbqhmC7eMvXxqSpPB5Xj8qZWQ==
+eslint-config-cmyr@^1.1.27:
+  version "1.1.27"
+  resolved "https://registry.yarnpkg.com/eslint-config-cmyr/-/eslint-config-cmyr-1.1.27.tgz#95ff0b31caada15d2b796434b2f90fac25618d50"
+  integrity sha512-iYe76u/NHAYiPbcYLm2pUWMlFB/akEPSf+D9cv3NQG+WzF0fIcdtIhD/jxcNUGq54Ri9JHhVPUrQ8W5Jr7KS1g==
 
 eslint-import-resolver-node@^0.3.4, eslint-import-resolver-node@^0.3.7:
   version "0.3.7"
